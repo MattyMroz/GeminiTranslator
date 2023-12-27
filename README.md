@@ -1,0 +1,2 @@
+# GeminiTranslator
+Gemini Translator PL
