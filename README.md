@@ -1,2 +1,2 @@
 # GeminiTranslator
-Gemini Translator PL
+🔥🌐 GOOGLE COLAB GEMINI TRANSLATOR 🌐🔥
